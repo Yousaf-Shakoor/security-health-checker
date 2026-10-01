@@ -76,9 +76,6 @@ npm link
 security-health-checker https://example.com
 ```
 
-## GitHub
-
-Create a public repository named `security-health-checker`, push this project, and replace `YOUR-USERNAME` above with your GitHub username.
 
 ## Responsible use
 
